@@ -5,5 +5,5 @@
 - `24.6.2020` start of implementation of Forward routine using new IDE (GBOS)
 
 ## Links
-Motor-Control-Shield : https://www.st.com/en/ecosystems/x-nucleo-ihm01a1.html
-L6474-Doc            : https://www.st.com/resource/en/datasheet/l6474.pdf
+- Motor-Control-Shield : https://www.st.com/en/ecosystems/x-nucleo-ihm01a1.html
+- L6474-Doc            : https://www.st.com/resource/en/datasheet/l6474.pdf
