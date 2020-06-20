@@ -1,0 +1,14 @@
+L6474 -> Arduino PinHeader
+
+FLAG -> 2
+PWM2 -> 3
+DIR2 -> 4
+DIR3 -> 5
+PWM3 -> 6
+DIR1 -> 7
+STBY_RES -> 8
+PWM1 -> 9
+CS -> 10
+MOSI -> 11 
+MISO -> 12
+SCK-> 13
